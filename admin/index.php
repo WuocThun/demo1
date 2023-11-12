@@ -6,6 +6,7 @@
     include "../model/binhluan.php";
     include "../model/cart.php";
     include "../model/thongke.php";
+
     include "header.php";
     //controller
 
