@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../ASM_DuAnMau"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../onthi"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "chuong9"
+	}
+}
